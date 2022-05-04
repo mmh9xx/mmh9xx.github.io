@@ -1,0 +1,33 @@
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+} 
+
+h2 {
+  color: pink;
+  margin-left: 10px;
+}
+
+h3 {
+  color: darkolivegreen;
+  margin-left: 20px;
+}
+
+h4 {
+  color: cadetblue;
+  margin-left: 10px;
+}
+
+h5 {
+  color: goldenrod;
+  margin-left: 20px;
+}
+
+h6 {
+  color: palevioletred;
+  margin-left: 10px;
+}
